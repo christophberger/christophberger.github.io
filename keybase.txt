@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/christophberger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://christophberger.com
+  * I am christophberger (https://keybase.io/christophberger) on keybase.
+  * I have a public key ASC8b-gcdQzzyAjieAUZNehGbw2z1Fd2V2xp8SduLfHYxAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120bc6fe81c750cf3c808e278051935e8466f0db3d45776576c69f1276e2df1d8c40a",
+            "host": "keybase.io",
+            "kid": "0120bc6fe81c750cf3c808e278051935e8466f0db3d45776576c69f1276e2df1d8c40a",
+            "uid": "6b0df6c42c569e9b0c033b5329d22419",
+            "username": "christophberger"
+        },
+        "service": {
+            "hostname": "christophberger.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473931020,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473930987,
+        "hash": "4ed53436f6a32f91ce69052abefb9fbe95af462e1b11725639b59b822b5b3f5137e24035747121f6e8ddf24e223405a92896bc12c3d9a527a523304de251eab3",
+        "seqno": 637342
+    },
+    "prev": "4d0a2e0fc5f973675df56a86cacb834a5e9642337cb9c02a86e7373b43511aac",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvG/oHHUM88gI4ngFGTXoRm8Ns9RXdldsafEnbi3x2MQKp3BheWxvYWTFAwJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYmM2ZmU4MWM3NTBjZjNjODA4ZTI3ODA1MTkzNWU4NDY2ZjBkYjNkNDU3NzY1NzZjNjlmMTI3NmUyZGYxZDhjNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmM2ZmU4MWM3NTBjZjNjODA4ZTI3ODA1MTkzNWU4NDY2ZjBkYjNkNDU3NzY1NzZjNjlmMTI3NmUyZGYxZDhjNDBhIiwidWlkIjoiNmIwZGY2YzQyYzU2OWU5YjBjMDMzYjUzMjlkMjI0MTkiLCJ1c2VybmFtZSI6ImNocmlzdG9waGJlcmdlciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY2hyaXN0b3BoYmVyZ2VyLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzM5MzEwMjAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MzkzMDk4NywiaGFzaCI6IjRlZDUzNDM2ZjZhMzJmOTFjZTY5MDUyYWJlZmI5ZmJlOTVhZjQ2MmUxYjExNzI1NjM5YjU5YjgyMmI1YjNmNTEzN2UyNDAzNTc0NzEyMWY2ZThkZGYyNGUyMjM0MDVhOTI4OTZiYzEyYzNkOWE1MjdhNTIzMzA0ZGUyNTFlYWIzIiwic2Vxbm8iOjYzNzM0Mn0sInByZXYiOiI0ZDBhMmUwZmM1Zjk3MzY3NWRmNTZhODZjYWNiODM0YTVlOTY0MjMzN2NiOWMwMmE4NmU3MzczYjQzNTExYWFjIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQHFveraOgn/hU3EFqxFRUGn7yYVlleH7aLQ9N/U0nnyVDcyE4AOZD1CC7vjVKqYq9+lIsy/l031vSSxHDJLJtweoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBLsqbG3JfnP95cGoUB+b3jK9k8RMph53D4d3BViFY3OKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/christophberger
+
+==================================================================
