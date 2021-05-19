@@ -1,4 +1,8 @@
-# Impressum
+---
+layout: default
+title: Impressum
+permalink: /legal/
+---
 
 Christoph Berger
 
@@ -14,6 +18,7 @@ Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE3097961
 Plattform der EU-Kommission zur Online-Streitbeilegung: \
 http://ec.europa.eu/consumers/odr \
 Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
+
 ___
 
 *Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.* \
