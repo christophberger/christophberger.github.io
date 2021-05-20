@@ -16,7 +16,7 @@ E-Mail: info@christophberger.com \
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE309796174
 
 Plattform der EU-Kommission zur Online-Streitbeilegung: \
-http://ec.europa.eu/consumers/odr \
+https://ec.europa.eu/consumers/odr \
 Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.
 
 ___
