@@ -8,7 +8,7 @@ html {
 
 body {
     width: 100%;
-    margin: 0em;
+    margin: 1em;
     padding: 0em;
 }
 
@@ -16,8 +16,16 @@ a {
     text-decoration: none;
 }
 
-section h1, #christoph-berger { font-family: 'Architects Daughter', cursive;}
-h2, h3, p { font-family: 'Lato';}
+section h1,
+#christoph-berger {
+    font-family: 'Architects Daughter', cursive;
+}
+
+h2,
+h3,
+p {
+    font-family: 'Lato';
+}
 
 h1,
 h2,
@@ -57,7 +65,9 @@ small,
 }
 
 @media screen {
-    section, footer {
+
+    section,
+    footer {
         max-width: 33em;
         margin-left: auto;
         margin-right: auto;
@@ -66,7 +76,9 @@ small,
 }
 
 @media screen and (max-width: 44em) {
-    section, footer {
+
+    section,
+    footer {
         max-width: 100%;
         margin-left: auto;
         margin-right: auto;
