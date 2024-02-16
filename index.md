@@ -20,6 +20,7 @@ layout: home
 
 #### Social media
 
+[Mastodon](https://c.im/@christophberger)
+
 [LinkedIn](https://www.linkedin.com/in/christophberger1)
 
-[Mastodon](https://c.im/@christophberger)
