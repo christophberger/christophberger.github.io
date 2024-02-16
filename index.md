@@ -22,4 +22,4 @@ layout: home
 
 [LinkedIn](https://www.linkedin.com/in/christophberger1)
 
-[Mastodon](https://c.im/@appliedgo)
+[Mastodon](https://c.im/@christophberger)
