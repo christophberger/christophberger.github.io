@@ -12,7 +12,14 @@ layout: home
 ### Learn programming in Go
 [![Applied Go Courses](AppliedGopherPhDCourses200.png)](https://appliedgo.com "Applied Go Courses")
 
+### Technical Writer Portfolio
 
-[Christoph on LinkedIn](https://www.linkedin.com/in/christophberger1)
+[Selected writing and educational content]({{% link portfolio.md %}})
 
+### Other sites
 
+#### Social media
+
+[LinkedIn](https://www.linkedin.com/in/christophberger1)
+
+[Mastodon](https://c.im/@appliedgo)
