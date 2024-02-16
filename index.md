@@ -14,7 +14,7 @@ layout: home
 
 ### Technical Writer Portfolio
 
-[Selected writing and educational content]({% link /portfolio.md %})
+[Selected writing and educational content]({% link portfolio.md %})
 
 ### Other sites
 
